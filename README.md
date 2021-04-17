@@ -1,6 +1,6 @@
 # Amazon Web Services (AWS) JDBC Driver for MySQL
 
-**The Amazon Web Services (AWS) JDBC Driver for MySQL** is a driver that enables applications to take full advantage of the features of clustered MySQL databases. It is based on and can be used as a drop-in compatible for the [MySQL Connector/J driver](https://github.com/mysql/mysql-connector-j) and is compatible with all MySQL deployments.
+**The Amazon Web Services (AWS) JDBC Driver for MySQL** is a driver that enables applications to take full advantage of the features of clustered MySQL databases. It is drop-in compatible and based on the [MySQL Connector/J driver](https://github.com/mysql/mysql-connector-j), and is compatible with all MySQL deployments.
 
 The AWS JDBC Driver for MySQL currently enables fast failover for Amazon Aurora with MySQL compatibility.
 ## What is Failover?
