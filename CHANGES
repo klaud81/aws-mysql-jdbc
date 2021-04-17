@@ -4,6 +4,8 @@ Version 1.0.0 (General Availability)
 
   - Added "setAwsProtocolOnly" static method.
 
+  - Fixed an issue where the driver would connect to a reader node after failover and fail when the --read-only flag was enabled.
+
   - Merged upstream changes from MySQL 8.0.23 community driver.
 
   - Added clarifications and improvements to README.md.

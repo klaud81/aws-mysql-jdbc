@@ -288,7 +288,7 @@ publishing {
 
             pom {
                 name.set("Amazon Web Services (AWS) JDBC Driver for MySQL")
-                description.set("Public preview of the Amazon Web Services (AWS) JDBC Driver for MySQL.")
+                description.set("Amazon Web Services (AWS) JDBC Driver for MySQL.")
                 url.set("https://github.com/awslabs/aws-mysql-jdbc")
 
                 licenses {
