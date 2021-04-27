@@ -1,5 +1,10 @@
 # Amazon Web Services (AWS) JDBC Driver for MySQL
 
+[![Build Status](https://github.com/awslabs/aws-mysql-jdbc/workflows/CI/badge.svg)](https://github.com/awslabs/aws-mysql-jdbc/actions?query=workflow%3A%22CI%22)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/software.aws.rds/aws-mysql-jdbc/badge.svg)](https://maven-badges.herokuapp.com/maven-central/software.aws.rds/aws-mysql-jdbc)
+[![Javadoc](https://javadoc.io/badge2/software.aws.rds/aws-mysql-jdbc/javadoc.svg)](https://javadoc.io/doc/software.aws.rds/aws-mysql-jdbc)
+[![License: GPLv2 with FOSS exception](https://img.shields.io/badge/license-GPLv2_with_FOSS_exception-c30014.svg)](LICENSE)
+
 **The Amazon Web Services (AWS) JDBC Driver for MySQL** is a driver that enables applications to take full advantage of the features of clustered MySQL databases. It is drop-in compatible and based on the [MySQL Connector/J driver](https://github.com/mysql/mysql-connector-j), and is compatible with all MySQL deployments.
 
 The AWS JDBC Driver for MySQL currently enables fast failover for Amazon Aurora with MySQL compatibility.
