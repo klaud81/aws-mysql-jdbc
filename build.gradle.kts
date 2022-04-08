@@ -238,7 +238,7 @@ dependencies {
     implementation("org.slf4j:slf4j-api:1.7.30")
     implementation("com.oracle.oci.sdk:oci-java-sdk-common:2.13.0")
 
-    compileOnly("org.ajoberstar.grgit:grgit-gradle:4.1.1")
+    compileOnly("org.ajoberstar.grgit:grgit-gradle:5.0.0")
 }
 
 sourceSets {
